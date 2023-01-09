@@ -1,3 +1,9 @@
+## See the live demo 👇
+    
+https://kepplin.github.io/odin-recipes/index.html
+
+## About
+
 This is a project in which I have created a website consisting of a main page linking to recipes, built using purely HTML. 
 The skills I have demonstrated in this project include:
 
@@ -8,6 +14,4 @@ The skills I have demonstrated in this project include:
     - Use of links and Images
     
     - The ability to create meaningful commits/commit messages
-See the live demo 👇
-    
-https://kepplin.github.io/odin-recipes/index.html
+
